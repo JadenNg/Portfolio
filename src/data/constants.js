@@ -8,7 +8,7 @@ export const Bio = {
   github: "https://github.com/JadenNg",
   resume:
     "https://drive.google.com/file/d/1eV5TyFsXRXDO-R_-rafP64aVdRdX1WYZ/view",
-  linkedin: "https://www.linkedin.com/in/dam-quan-undefined-0a7a35293/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app&fbclid=IwAR0cfO-h51qBz6gnXLS4XT3qyowqkjC70JZ_R7O06H1IkAHrImchKdn8_S4",
+  linkedin: "https://www.linkedin.com/in/quan-nguyen-0a7a35293/",
   insta: "https://www.instagram.com/ntdquann_/?next=%2F",
   facebook: "https://www.facebook.com/quanlala1211/",
 };
@@ -138,7 +138,19 @@ export const experiences = [
   },
   {
     id: 1,
-    role: "FullStack Developer",
+    role: "Intern FullStack Developer",
+    company: "MetalMaker 3D",
+    date: "Jan 2024 - April 2024",
+    desc: "Responsible for developing and maintaining the 3D printing website ",
+    skills: [
+      "VueJS",
+      "Material UI",
+      "JavaScript",
+    ],
+  },
+  {
+    id: 1,
+    role: "Intern FullStack Developer",
     company: "Unfair Advantage OY",
     date: "May 2024 - Sept 2024",
     desc: "Responsible for making web & app bookings for sports ",
@@ -226,7 +238,7 @@ export const projects = [
     image:
       "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
     tags: ["HTML", "CSS", "Javascript"],
-    category: "IOS app",
+    category: "Web app",
     image: "https://drive.google.com/file/d/1zJqZkRK60Z3eE0aS0-47abdVxH2OXLQH/view",
     github: "https://gitlab.com/ToniKaukamo/RandomDataGenerator",
   },
