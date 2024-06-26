@@ -7,7 +7,7 @@ export const Bio = {
     "As a dedicated and adaptable professional, I consistently seek out fresh challenges. Fueled by a profound commitment to learning, I prioritize delivering top-tier results. With a resilient mindset and a focus on growth, I am poised to make substantial contributions and reach impressive milestones.",
   github: "https://github.com/JadenNg",
   resume:
-    "https://drive.google.com/file/d/1eV5TyFsXRXDO-R_-rafP64aVdRdX1WYZ/view",
+    "https://drive.google.com/file/d/1VbUbDgwb3wxRAMX4nSWTkVtsy-L2BxsU/view",
   linkedin: "https://www.linkedin.com/in/quan-nguyen-0a7a35293/",
   insta: "https://www.instagram.com/ntdquann_/?next=%2F",
   facebook: "https://www.facebook.com/quanlala1211/",
