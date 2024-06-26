@@ -136,6 +136,20 @@ export const experiences = [
       "JavaScript",
     ],
   },
+  {
+    id: 1,
+    role: "FullStack Developer",
+    company: "Unfair Advantage OY",
+    date: "May 2024 - Sept 2024",
+    desc: "Responsible for making web & app bookings for sports ",
+    skills: [
+      "ViteJS",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+  },
 ];
 
 export const education = [
