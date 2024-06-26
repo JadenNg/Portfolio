@@ -138,7 +138,7 @@ export const experiences = [
   },
   {
     id: 1,
-    role: "Intern FullStack Developer",
+    role: "FullStack Developer Intern",
     company: "MetalMaker 3D",
     date: "Jan 2024 - April 2024",
     desc: "Responsible for developing and maintaining the 3D printing website ",
@@ -150,7 +150,7 @@ export const experiences = [
   },
   {
     id: 1,
-    role: "Intern FullStack Developer",
+    role: "FullStack Developer Intern ",
     company: "Unfair Advantage OY",
     date: "May 2024 - Sept 2024",
     desc: "Responsible for making web & app bookings for sports ",
